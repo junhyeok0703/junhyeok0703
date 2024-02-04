@@ -58,6 +58,15 @@ Here are some ideas to get you started:
   	<a href="https://yermi.co.kr">
 		<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" />
 	</a>
+	<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" />
+	</a>
+	<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
+	</a>
+	<a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME/">
+		<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white" />
+	</a>
 	<br>
 </div>
 <div align=center>
