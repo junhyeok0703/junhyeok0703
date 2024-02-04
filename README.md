@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 	<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" />
 	</a>
-	<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
-		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
-	</a>
 	<a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME/">
 		<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white" />
+	</a>
+	<a href="https://velog.io/@YOUR_VELOG_USERNAME">
+		<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Vimeo&logoColor=white" />
 	</a>
 	<br>
 </div>
