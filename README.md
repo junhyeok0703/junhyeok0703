@@ -80,3 +80,10 @@ Here are some ideas to get you started:
 	
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjh0703)](https://solved.ac/pjh0703)
  </div>
+<p>나만의 레포지토리 구성하는 법</p>
+
+<ul>
+	<li>커밋을 최대한 많이 하고 커밋설명을 조금 자세히 붙이기 (롤백해야될때도 있기때문에 그런거 미리연습)</li>
+	<li>프로젝트나 강의별로 레포지토리를 나눠서 충분히 나눠야지 나중에 보기 편하고 public이나 private으로 설정할수있음</li>
+	<li>read.me형식을 조금 잘만들어놔서 프로젝트추가할때나 나만의 보기좋은방식으로 나의 프로젝트를 설명하도록하기</li>
+</ul>
