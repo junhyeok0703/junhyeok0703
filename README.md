@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 	<p> Platforms & Languages </p>
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" />
+	<img src="https://img.shields.io/badge/Java-007396?style=badge&logo=Conda-Forge&logoColor=white" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=badge&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=badge&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=badge&logo=JavaScript&logoColor=white" />
+	<img src="https://img.shields.io/badge/mysql-4479A1?style=badge&logo=mysql&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
-	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
+	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=badge&logo=Bootstrap&logoColor=white" />
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=badge&logo=Linux&logoColor=white" />
+	<img src="https://img.shields.io/badge/React-61DAFB?style=badge&logo=React&logoColor=white" />
 	<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 	<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 	<br>
@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 	<p>🛠 Tools 🛠</p>
 </div>
 <div align=center>
-	<img src="https://img.shields.io/badge/IntelliJ IDEA%20IDE-000000?style=flat&logo=IntelliJ IDEA&logoColor=white" />
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/IntelliJ IDEA%20IDE-000000?style=badge&logo=IntelliJ IDEA&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=badge&logo=VisualStudioCode&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitHub-181717?style=badge&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 	<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
 	<img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=OpenAI&logoColor=white">
@@ -57,16 +57,16 @@ Here are some ideas to get you started:
 </div>
 <div align=center>
 	<a href="[https://yermi.co.kr](https://bouncy-mat-9c6.notion.site/Junhyeok-Park-Portfolio-156ffb3dfb534b15b836c24d5fe81f60)">
-		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=Instagram&logoColor=white" />
 	</a>
 	<a href="[https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d](https://bouncy-mat-9c6.notion.site/Junhyeok-Park-Portfolio-156ffb3dfb534b15b836c24d5fe81f60)">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+		<img src="https://img.shields.io/badge/Notion-000000?style=badge&logo=Notion&logoColor=white" />
 	</a>
 	<a href="https://www.linkedin.com/in/junhyeok0703/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" />
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=badge&logo=LinkedIn&logoColor=white" />
 	</a>
 	<a href="https://velog.io/@junhyeok0703/posts">
-		<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Vimeo&logoColor=white" />
+		<img src="https://img.shields.io/badge/Velog-20C997?style=badge&logo=Vimeo&logoColor=white" />
 	</a>
 	<br>
 </div>
