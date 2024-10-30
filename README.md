@@ -30,6 +30,12 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 	<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+	<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+	<br>
+	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+	<img src="https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
+	<img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+	<img src="https://img.shields.io/badge/LangChain-0B5A9D?style=for-the-badge&logo=LangChain&logoColor=white">
 </div>
 
 <br>
@@ -40,6 +46,9 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/IntelliJ IDEA%20IDE-000000?style=flat&logo=IntelliJ IDEA&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+	<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
+	<img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=OpenAI&logoColor=white">
   <br>
 </div>
 <br>
@@ -47,17 +56,14 @@ Here are some ideas to get you started:
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-	<a href="https://yermi.co.kr">
+	<a href="[https://yermi.co.kr](https://bouncy-mat-9c6.notion.site/Junhyeok-Park-Portfolio-156ffb3dfb534b15b836c24d5fe81f60)">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
 	</a>
-	<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
+	<a href="[https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d](https://bouncy-mat-9c6.notion.site/Junhyeok-Park-Portfolio-156ffb3dfb534b15b836c24d5fe81f60)">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
-	<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+	<a href="https://www.linkedin.com/in/junhyeok0703/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" />
-	</a>
-	<a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME/">
-		<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white" />
 	</a>
 	<a href="https://velog.io/@junhyeok0703/posts">
 		<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Vimeo&logoColor=white" />
