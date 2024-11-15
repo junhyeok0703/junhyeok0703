@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
 	<img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 	<img src="https://img.shields.io/badge/LangChain-0B5A9D?style=for-the-badge&logo=LangChain&logoColor=white">
+	<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
 </div>
 
 <br>
@@ -67,6 +68,9 @@ Here are some ideas to get you started:
 	</a>
 	<a href="https://velog.io/@junhyeok0703/posts">
 		<img src="https://img.shields.io/badge/Velog-20C997?style=badge&logo=Vimeo&logoColor=white" />
+	</a>
+	<a href="https://public.tableau.com/app/profile/junhyeok.park8649/vizzes">
+		<img src="https://img.shields.io/badge/Tableau-E97627?style=badge&logo=Tableau&logoColor=white" />
 	</a>
 	<br>
 </div>
