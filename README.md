@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=박준혁%20|%20데이터%20분석가&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Product%20Analytics%20Specialist&descAlignY=65&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=liquid&color=gradient&customColorList=00d2ff,3a7bd5,00c6ff&height=300&section=header&text=박준혁%20|%20데이터%20분석가&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Product%20Analytics%20Specialist&descAlignY=65&fontColor=ffffff)
+
 
 # 💫 About Me
 
