@@ -1,85 +1,69 @@
-<!--
-**junhyeok0703/junhyeok0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Data%20Analyst%20Jun0703&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=jun0703's%20Github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-
-<!-- header -->
-<div align=center>
-	<h3>✨ my tech Stack ✨</h3>
-	<p> Platforms & Languages </p>
-</div>
 <div align="center">
-	<img src="https://img.shields.io/badge/mysql-4479A1?style=badge&logo=mysql&logoColor=white" />
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=badge&logo=Linux&logoColor=white" />
-	<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-	<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-	<br>
-	<img src="https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
-	<img src="https://img.shields.io/badge/LangChain-0B5A9D?style=for-the-badge&logo=LangChain&logoColor=white">
-	<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+  <h2>🎯 Product & Marketing Data Analyst</h2>
+  <p>Specialized in product analytics, user behavior analysis, and data-driven decision making</p>
 </div>
 
-<br>
-<div align=center>
-	<p>🛠 Tools 🛠</p>
-</div>
-<div align=center>
-	<img src="https://img.shields.io/badge/IntelliJ IDEA%20IDE-000000?style=badge&logo=IntelliJ IDEA&logoColor=white" />
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=badge&logo=VisualStudioCode&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=badge&logo=GitHub&logoColor=white" />
-	<img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-	<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
-	<img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=OpenAI&logoColor=white">
-  <br>
-</div>
-<br>
-<div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
-</div>
-<div align=center>
-	<a href="[https://yermi.co.kr](https://bouncy-mat-9c6.notion.site/Junhyeok-Park-Portfolio-156ffb3dfb534b15b836c24d5fe81f60)">
-		<img src="https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=Instagram&logoColor=white" />
-	</a>
-	<a href="[https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d](https://bouncy-mat-9c6.notion.site/Junhyeok-Park-Portfolio-156ffb3dfb534b15b836c24d5fe81f60)">
-		<img src="https://img.shields.io/badge/Notion-000000?style=badge&logo=Notion&logoColor=white" />
-	</a>
-	<a href="https://www.linkedin.com/in/junhyeok0703/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=badge&logo=LinkedIn&logoColor=white" />
-	</a>
-	<a href="https://velog.io/@junhyeok0703/posts">
-		<img src="https://img.shields.io/badge/Velog-20C997?style=badge&logo=Vimeo&logoColor=white" />
-	</a>
-	<a href="https://public.tableau.com/app/profile/junhyeok.park8649/vizzes">
-		<img src="https://img.shields.io/badge/Tableau-E97627?style=badge&logo=Tableau&logoColor=white" />
-	</a>
-	<br>
-</div>
-<div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhyeok0703&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=junhyeok0703&show_icons=true">
+### 📊 Analytics & Data Science Stack
 
+<div align="center">
+  <h4>🔍 Analytics Tools</h4>
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google%20cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
+  
+  <h4>💻 Programming & Databases</h4>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  
+  <h4>🛠️ Productivity Tools</h4>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
-<br>
-<p>🏆 Baekjoon solved rank 🏆</p>
-	
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjh0703)](https://solved.ac/pjh0703)
- </div>
-<p>나만의 레포지토리 구성하는 법</p>
+### 📈 Analytics Expertise
+- **User Behavior Analysis**: AARRR Framework, Cohort Analysis, RFM Segmentation
+- **Advanced Analytics**: Clustering, Dimensionality Reduction, Statistical Hypothesis Testing
+- **Product Analytics**: Metric Definition & Design, Log Architecture, A/B Testing
+- **Web Analytics**: Google Analytics Implementation, Conversion Tracking, User Journey Analysis
+- **Data Visualization**: Custom Dashboard Creation, Strategic Data Storytelling
+- **ETL & Automation**: Data Pipeline Design, Automated Reporting Systems
 
-<ul>
-	<li>커밋을 최대한 많이 하고 커밋설명을 조금 자세히 붙이기 (롤백해야될때도 있기때문에 그런거 미리연습)</li>
-	<li>프로젝트나 강의별로 레포지토리를 나눠서 충분히 나눠야지 나중에 보기 편하고 public이나 private으로 설정할수있음</li>
-	<li>read.me형식을 조금 잘만들어놔서 프로젝트추가할때나 나만의 보기좋은방식으로 나의 프로젝트를 설명하도록하기</li>
-</ul>
+### 🔗 Connect & Portfolio
+<div align="center">
+  <a href="https://bouncy-mat-9c6.notion.site/Junhyeok-Park-Portfolio-156ffb3dfb534b15b836c24d5fe81f60">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/junhyeok0703/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://velog.io/@junhyeok0703/posts">
+    <img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
+  </a>
+  <a href="https://public.tableau.com/app/profile/junhyeok.park8649/vizzes">
+    <img src="https://img.shields.io/badge/Tableau%20Public-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  </a>
+</div>
+
+### 📊 GitHub Stats & Problem Solving
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhyeok0703&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=junhyeok0703&show_icons=true&theme=tokyonight" />
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjh0703)](https://solved.ac/pjh0703)
+</div>
+
+### 📝 Repository Organization
+- Each project and course has its own repository for better organization
+- Detailed commit messages for easy tracking and rollback reference
+- Well-structured README files with:
+  - Project overview and objectives
+  - Technologies and methodologies used
+  - Key findings and results
+  - Implementation details and setup instructions
