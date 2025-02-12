@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0099FF,33CCFF,66FFFF&height=300&section=header&text=박준혁%20|%20데이터%20분석가&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Product%20Analytics%20Specialist&descAlignY=65&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=jun0703's%20Github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
 
 
