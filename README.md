@@ -1,6 +1,48 @@
-![header](https://capsule-render.vercel.app/api?type=liquid&color=gradient&customColorList=00d2ff,3a7bd5,00c6ff&height=300&section=header&text=박준혁%20|%20데이터%20분석가&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Product%20Analytics%20Specialist&descAlignY=65&fontColor=ffffff)
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300">
+  <defs>
+    <!-- Gradient definitions -->
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4158D0" />
+      <stop offset="50%" style="stop-color:#C850C0" />
+      <stop offset="100%" style="stop-color:#FFCC70" />
+    </linearGradient>
+    
+    <!-- Water drop animation for background only -->
+    <filter id="waterDrop">
+      <feTurbulence type="turbulence" baseFrequency="0.01" numOctaves="3" seed="1">
+        <animate attributeName="seed" from="1" to="2" dur="8s" repeatCount="indefinite" />
+      </feTurbulence>
+      <feDisplacementMap in="SourceGraphic" scale="15" />
+    </filter>
+  </defs>
 
+  <!-- Background with animated water effect -->
+  <rect width="800" height="300" fill="url(#headerGradient)" filter="url(#waterDrop)" />
 
+  <!-- Main title - without water effect -->
+  <text x="400" y="120" font-family="Batang, serif" font-size="50" fill="white" text-anchor="middle">
+    박준혁 | 데이터 분석가
+  </text>
+
+  <!-- Subtitle - without water effect -->
+  <text x="400" y="180" font-family="Times New Roman, serif" font-size="30" fill="white" text-anchor="middle">
+    Product Analytics Specialist
+  </text>
+
+  <!-- Animated bubbles -->
+  <circle cx="200" cy="250" r="20" fill="white" opacity="0.3">
+    <animate attributeName="cy" values="250;230;250" dur="4s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.3;0.5;0.3" dur="4s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="600" cy="50" r="15" fill="white" opacity="0.3">
+    <animate attributeName="cy" values="50;70;50" dur="3s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.3;0.5;0.3" dur="3s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="700" cy="200" r="25" fill="white" opacity="0.3">
+    <animate attributeName="cy" values="200;180;200" dur="5s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.3;0.5;0.3" dur="5s" repeatCount="indefinite" />
+  </circle>
+</svg>
 
 # 💫 About Me
 
