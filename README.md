@@ -28,7 +28,7 @@ mindmap
         자동화(크롤링)
 ```
 ### 4. 기술 스택
-```markdown
+
 # 🛠️ 기술 스택
 
 ## 📊 분석 도구
@@ -48,7 +48,7 @@ mindmap
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-```
+
 
 # 📈 주요 분석 역량
 
