@@ -68,12 +68,6 @@ mindmap
 [![테크블로그](https://img.shields.io/badge/테크블로그-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@junhyeok0703/posts)
 [![태블로 포트폴리오](https://img.shields.io/badge/태블로_포트폴리오-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/junhyeok.park8649/vizzes)
 
-# 📊 GitHub & 문제 해결 능력
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhyeok0703&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=junhyeok0703&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjh0703)](https://solved.ac/pjh0703)
 
 
