@@ -64,7 +64,8 @@ mindmap
 # 🔍 프로젝트 & 포트폴리오
 
 [![포트폴리오](https://img.shields.io/badge/포트폴리오-000000?style=for-the-badge&logo=notion&logoColor=white)]()
-[![링크드인](https://img.shields.io/badge/링크드인-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/junhyeok0703/])
+[![링크드인](https://img.shields.io/badge/링크드인-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/%EC%A4%80%ED%98%81-%EB%B0%95-576391241/)])
+
 [![테크블로그](https://img.shields.io/badge/테크블로그-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@junhyeok0703/posts)
 [![태블로 포트폴리오](https://img.shields.io/badge/태블로_포트폴리오-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/junhyeok.park8649/vizzes)
 
