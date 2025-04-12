@@ -71,21 +71,4 @@ mindmap
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjh0703)](https://solved.ac/pjh0703)
 
 
-# 📝 저장소 관리 원칙
-> 체계적인 프로젝트 관리와 협업을 위한 가이드라인
-
-* 프로젝트/스터디별 독립 저장소 운영
-* 상세한 커밋 메시지 작성
-  * 수정 내용
-  * 수정 이유
-  * 영향 범위
-* README 필수 포함 사항
-  * 프로젝트 개요 및 목표
-  * 사용 기술 및 방법론
-  * 주요 발견 및 결과
-  * 실행 방법 및 환경 설정
-
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&fontSize=50)
-
 
