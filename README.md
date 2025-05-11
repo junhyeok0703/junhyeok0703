@@ -163,6 +163,4 @@ mindmap
 
 ---
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjh0703)](https://solved.ac/pjh0703)
-
 
