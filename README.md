@@ -8,7 +8,7 @@
 
 [![포트폴리오](https://img.shields.io/badge/포트폴리오-000000?style=for-the-badge&logo=notion&logoColor=white)]()
 [![링크드인](https://img.shields.io/badge/링크드인-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%A4%80%ED%98%81-%EB%B0%95-576391241/)
-[![블로그](https://img.shields.io/badge/Tech%20Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://data-d-luffy.tistory.com/)
+[![블로그](https://img.shields.io/badge/Tech%20Blog-20C997?style=for-the-badge&logo=tistory&logoColor=white)](https://data-d-luffy.tistory.com/)
 [![태블로](https://img.shields.io/badge/Tableau-Portfolio-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/junhyeok.park8649/vizzes)
 [![Instagram](https://img.shields.io/badge/Instagram-ProDdecoded-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/proddecoded/)
 
