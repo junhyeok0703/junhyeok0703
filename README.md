@@ -41,7 +41,7 @@
 
 <!-- 언어 및 분석 -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 ![Funnel Analysis](https://img.shields.io/badge/Funnel%20Analysis-FF6F61?style=for-the-badge&logo=google-analytics&logoColor=white)
 ![Retention Analysis](https://img.shields.io/badge/Retention%20Analysis-FFB800?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
