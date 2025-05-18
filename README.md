@@ -39,25 +39,28 @@
 ---
 ### 📊 데이터 분석 도구 (Tools)
 
-- **Python, SQL / 리텐션·퍼널 분석**  
-  → 유저 여정을 기반으로 이탈 포인트와 전환 흐름을 분석하며, 데이터 기반 제품 개선 인사이트 도출
+<!-- 언어 및 분석 -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Funnel Analysis](https://img.shields.io/badge/Funnel%20Analysis-FF6F61?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Retention Analysis](https://img.shields.io/badge/Retention%20Analysis-FFB800?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
-- **Tableau,Streamlit / 시각화**  
-  → RFM 세분화, 전환율 차트, KPI 대시보드를 구성해 핵심 인사이트를 직관적으로 전달
+<!-- 시각화 -->
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-- **BigQuery / SQL 자동화**  
-  → 대용량 로그 데이터를 효율적으로 처리하며, ETL 쿼리 작성 및 자동화 파이프라인 구현
-
-- **Airflow / ETL 스케줄링**  
-  → 공공 API 및 사용자 로그 기반 데이터를 자동 수집·전처리 후 BigQuery에 적재  
-  → GCP + Docker 환경에서 Airflow 자동화 경험
+<!-- 데이터 처리 및 클라우드 -->
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
 ### 📈 분석 경험 및 전문 역량 (Skills)
 
 - **로그 분석**  
-  → 10대 대상 익명 질문 SNS에서 **50만 건 이상의 유저 로그 데이터**를 분석  
+  → 10대 대상 익명 질문 SNS에서 **50만명 이상의 유저 로그 데이터**를 분석  
   → 클릭 행동, 초성 확인, 포인트 사용 등 이벤트 기반 흐름 분석을 통해 전환 유도 전략 도출
 
 - **리텐션 & 전환율 분석**  
@@ -71,14 +74,11 @@
 
 ### 🤝 협업 및 문서화
 
-- **Notion / Obsidian / Git**  
-  → 회의록, 일정 관리, 분석 산출물 정리에 능숙하며, 프로젝트 내 PM 및 문서 총괄 역할 다수 수행  
-  → 기술 커뮤니케이션과 협업 프로세스를 체계적으로 관리하는 데 익숙
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-- **Canva / 발표자료 시각화**  
-  → 분석 결과 및 전략 인사이트를 **슬라이드 형태로 시각화**해 전달  
-  → 비개발자 및 의사결정자를 위한 **데이터 기반 스토리텔링 역량 보유**
-  
 ---
 
 ## 🧠 분석 전문 영역
